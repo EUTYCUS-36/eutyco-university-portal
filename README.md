@@ -3,7 +3,7 @@
 Welcome to the **Eutyco University Undergraduate Portal**, an intelligent, high-performance academic ecosystem designed to streamline the student experience. Built with a focus on modern UI/UX, responsiveness, and actionable data analytics.
 
 ## 🚀 Live Demo
-**[Insert Your Vercel Link Here]**
+**[https://eutyco-university-portal.vercel.app/]**
 
 ---
 
